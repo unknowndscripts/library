@@ -1,4 +1,4 @@
-local syde = loadstring(game:HttpGet("https://raw.githubusercontent.com/essencejs/syde/refs/heads/main/source", true))()
+local syde = loadstring(game:HttpGet("https://raw.githubusercontent.com/unknowndscripts/library/refs/heads/main/lib2.lua", true))()
 
 syde:Load({
 	Logo = '7488932274',
