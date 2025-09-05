@@ -1,17 +1,5 @@
 --[[
-
-
-                        dP          
-                        88          
-.d8888b. dP    dP .d888b88 .d8888b. 
-Y8ooooo. 88    88 88'  `88 88ooood8 
-      88 88.  .88 88.  .88 88.  ... 
-`88888P' `8888P88 `88888P8 `88888P' beta.
-              .88                   
-          d8888P                    
-
-
-made with 💓 by sellessence
+made with 💓 by sellessenceb bud   
 ]]
 
 
